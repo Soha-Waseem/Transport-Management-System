@@ -1,0 +1,1 @@
+-- Seed data is created by setup_database.py using bcrypt hashes.
